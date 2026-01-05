@@ -1,0 +1,11 @@
+/* style="transform: translateY(-50%); right: 20rem;" */
+.sideBtn {
+  transform: translateY(-50%) !important;
+  right: 20rem !important;
+}
+.no-scroll {
+  scrollbar-width: none;
+}
+.no-scroll ::-webkit-scrollbar {
+  display: none !important;
+}
